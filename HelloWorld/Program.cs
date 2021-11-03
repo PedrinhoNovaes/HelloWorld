@@ -7,7 +7,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Escreva seu nome: ");
+            Console.WriteLine("Escreva seu nome legal: ");
             var nome = Console.ReadLine();
             Console.WriteLine("seu nome é: ");
             Console.WriteLine(nome);
